@@ -15,3 +15,9 @@
 |  18.05.2016  | CRE 6524 | 220102005 | Bettembourg, Gare         | Departure         | 07.57     | 07.58 | 1     |
 |  18.05.2016  | CRE 6524 | 200405035 | Luxembourg, Gare Centrale | Arrival           | 08.08     | 08.07 | 0     |
 |              |          |           |                           |                   |           |       |       |
+|  18.05.2016  | RB 6858  | 200405035 | Luxembourg, Gare Centrale | Departure         | 08.48     | C     | 15    |
+|  18.05.2016  | CRE 6909 | 200405035 | Luxembourg, Gare Centrale | Departure         | 09.03     | 09.05 | 2     |
+|  18.05.2016  | CRE 6909 | 220401001 | Belval-Université, Gare   | Arrival           | 09.34     | 09.36 | 2     |
+|              |          |           |                           |                   |           |       |       |
+|  18.05.2016  | CRE 6989 | 220401001 | Belval-Université, Gare   | Departure         | 14.25     | 14.28 | 3     |
+|  18.05.2016  | CRE 6989 | 200405035 | Luxembourg, Gare Centrale | Arrival           | 14.57     | 15.27 | 30    |
